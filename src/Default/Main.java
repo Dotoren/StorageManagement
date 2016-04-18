@@ -1,8 +1,8 @@
 package Default;
 
-/**
- * Created by Remy on 4/18/2016.
- */
 public class Main {
 
+    public static void main(String[] args) {
+	// write your code here
+    }
 }
